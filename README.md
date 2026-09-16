@@ -1,1 +1,101 @@
-# DIVINAGRACIA_Act1
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Get To Know Me</title>
+    </head>
+        <body>
+            <h1>Get To Know Me - Practicality over Passion</h1>
+            <p>Hello there, Welcome to my official introductory profile</p>
+
+            <hr>
+
+            <h2>1.PERSONAL DETAILS</h2>
+            <p><b>Full Name:</b>Joshua S. Divinagracia</p>
+            <p><b>Academic Track:</b> Humanities and Social Sciences</p>
+            <p><b>School:</b> Saint James Academy Inc.</p>
+            <p><b>Location:</b> Poblacion, Badian, Cebu</p>
+
+            <br>
+
+            <h2>2.QUICK INTRODUCTION</h2>
+            <p>I was once an ambitious Grade 12  student with a keen interest in in finance, management, and accounting. Until I decided to take HUMSS strand as a gamble and I was doing great. I pass every exams and quizes, every performances and many other extracurricular activities</p>
+
+            <hr>
+
+            <h3>3.KEY ROLES & RESPONSIBILITIES </h3>
+            <p>Positions and duties I once actively fulfilled:</P>
+            <ul>
+                <li><b>Class Financial Manager:</b> Managing the class funds, cost calculations, and financial.</li>
+                <li><b>Peer Advocate:</b> Assissting in peer support initiatives and educational caravans within our campus</li>
+            </ul>
+            
+            <hr>
+
+            <h3>4. PERSONAL & ACADEMIC GOALS</h3>
+            <p>MY TOP OBJECTIVES BEFORE:</p>
+            <ol>
+                <li>Graduate as a high honored student</li>
+                <li>Graduate with large grades in my report card.</li>
+                <li>Study Civil Engineering at CTU main campus.</li>
+                <li>Study Businesss and acountancy at CIT.</li>
+                <LI>Study PolSci and Psychology at UV main</LI>
+            </Ol>
+            <p>I have plenty of dream careers and courses before but sadly it was beyond reach for someone who belong to the lower middleclass like me. Although my mom told me that she would support me in my dream courses especially PolSci but I refuse because I know that entering it would cost a lot not only it would cost a large amount of money but also hardwork, perseverance and patience which I personaly lacked.</p>
+
+            <br>
+
+            <p><b>WHY I CHOOSE BSIT OUT OF MANY STARND RELATED COURSES OUT THERE?</b></p>
+            <p>Being an IT student was not on list before. First of all IT was a totally related to my strand which is humss. Until I searched online about courses that does not need board examinations and the first to came out was IT. As I dig deeper into it, I noticed how large their salary is, and in that instant I decided to go for an IT course. As days went by, while scrolling on tiktok, a content popped-out about how hard IT really is and i did not mind it at all.</p>
+
+            <br>
+
+            <p>As of now, my one and only goal is to survive college because I just realized recently that in order for us to accomplish that goal, is to be specific for us to focus because the more goals means the more priorities. </p>
+
+            <hr>
+
+            <h4><b>5. MOTIVATIONS</b></h4>
+            <ul>
+                <li>No board exams</li>
+                <li>Visions of financial stability</li>
+                <li>Visions of a successful career </li>
+                <li>Large amount of salary/income in the future</li>
+            </ul>
+
+            <hr>
+
+            <h5><b>6. MY HOBBIES</b></h5>
+            <ol>
+                <li><b>ANIMES</b></li>
+                <p>I prefered watching underrated animes like;
+                    <ul>
+                        <li>KABANERI OF THE IRON FORTRESS</li>
+                        <LI>FARMING LIFE IN ANOTHER WORLD</LI>
+                    </ul>
+                </p>
+                <li><b>DONGHUAS</b></li>
+                <ul>
+                    <li>SWALLOWED STAR</li>
+                    <li>SUPREME LORD OF GALAXY</li>
+                    <li>TALES OF DEMONS AND GODS</li>
+                    <li>TALES OF THE HERDING GODS</li>
+                </ul>
+                <li><b>MANGA,MANHUA,YAOI,YURI</b></li>
+                <li><b>MOBILE GAMES</b></li>
+                <ul>
+                    <li>MOBILE LEGENDS</li>
+                    <LI>ROBLOX</LI>
+                    <li>MINECRAFT</LI>
+                </ul>
+            </ol>
+            
+            <hr>
+            
+            <h6><b>7. CONTACT INFO</b></h6>
+            <ul>
+                <li>PHONE NO. - 09694101731</li>
+                <li>FB ACC. - Joshua Divinagracia</li>
+                <li>FB acc link - <a href="https://www.facebook.com/share/1YAGAQERNt/">https://www.facebook.com/share/1YAGAQERNt/</a> </li>
+                <li>EMAIL - joshuadivinagracia192@gmail.com</li>
+            </ul>
+        </body>
+</html>
